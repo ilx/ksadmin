@@ -13,7 +13,7 @@
 			<!-- Release -->
 			<id>spring-release</id>
 			<name>Spring Maven RELEASE Repository</name>
-			<url>http://repo.springframework.org/release-remote</url>
+			<url>https://repo.springframework.org/release-remote</url>
 		</repository>	
 		<repository>
 			<!-- libs-release for JLine fork-->
@@ -22,7 +22,7 @@
 			<!--
 			<url>http://repo.springframework.org/libs-release-remote</url>
 			-->
-			<url>http://repo.springsource.org/simple/ext-release-local/</url>
+			<url>https://repo.springsource.org/simple/ext-release-local/</url>
 		</repository>
 	</repositories>
 
